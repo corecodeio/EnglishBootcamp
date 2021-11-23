@@ -17,12 +17,12 @@ In this bootcamp, you get access to one personzalized session a week. You can sc
 - [Rafa's Calendar](https://calendly.com/rparra-8/60min)
 - [Valerie's Calendar](https://calendly.com/valerieandrewsb)
 
-## Modules
-* Month 1: We'll be exploring an intro to English, including Parts of Speech, Nouns, Pronouns, Parts of a Sentence, General Punctuation, Pronunciation.
-* Month 2: We'll be exploring Articles, Adjectives, Verbes and Verb Tenses
-* Month 3: We'll be exploring Verb Tenses / Writing - Speaking, Preposition, Prepositional Phrases. Modals, Prefixes, Suffixes, Vocabulary
-* Month 4: We'll be exploring Idioms (modismos) Vocabulary, Adverbs, Writing, Interjections, Types of Sentences, Writing, Speaking, Grammar, Phrasal Verbs
-* Month 5: We'll be exploring Idioms, Conversations and Presentations
+## Months (modules)
+* **Month 1:** Intro to English, including Parts of Speech, Nouns, Pronouns, Parts of a Sentence, General Punctuation, Pronunciation, Recordings
+* **Month 2:** Articles, Adjectives, Verbes and Verb Tenses, Recordings
+* **Month 3:** Verb Tenses / Writing - Speaking, Preposition, Prepositional Phrases. Modals, Prefixes, Suffixes, Vocabulary, Recordings
+* **Month 4:** Idioms (modismos) Vocabulary, Adverbs, Writing, Interjections, Types of Sentences, Writing, Speaking, Grammar, Phrasal Verbs, Recordings
+* **Month 5:** Idioms, Conversations and Presentations, Recordings
 
 ## Assignments
 You can upload your assignments [here](https://drive.google.com/drive/folders/1WqhTPNE3rZiwCaWQ7h_FG5WeZaDJs5s9?usp=sharing).
