@@ -4,7 +4,7 @@
 
 </a>
 
-<h1 align="center">Technical Recruitment Bootcamp</h1>
+<h1 align="center">English Bootcamp</h1>
 
 ## Introduction
 <p>Welcome to the English Bootcamp. In this bootcamp, you'll explore the fundamentals of the English Language that will help you open new doors. This curriculum is built in alliance with Tech Partners. In this guide, you will find the different modules, assignments, schedule and recordings, we wish you the best.</p>
