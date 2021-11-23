@@ -7,10 +7,10 @@
 <h1 align="center">English Bootcamp</h1>
 
 ## Introduction
-<p>Welcome to the English Bootcamp. In this bootcamp, you'll explore the fundamentals of the English Language that will help you open new doors. This curriculum is built in alliance with Tech Partners. In this guide, you will find the different modules, assignments, schedule and recordings, we wish you the best.</p>
+<p>Welcome to the English Bootcamp. In this bootcamp, you'll explore the fundamentals of the English Language that will help you open new doors. This curriculum is built in alliance with Tech Partners and we are always open to keep building the experience along with our participants. We wish you the best. </p>
 
 ## How to use this guide
-<p>Feel free to browse the different sections of this guide. We recommend you start by observing the schedule. After that it is recommended that you look at the "Modules" section, this is the most important part of this guide, within each week you will find the topics that you will be learning, as well as the necessary links, help material and a description for what you will learn through the week.</p>
+<p>In this guide, you will find links and info on your personalized sessions, modules, assignment sace, feedback space, schedule, recordings. If there's anything missing from this guide, please let us know so we can add it. </p>
 
 ## Personalized Sessions
 In this bootcamp, you get access to one personzalized session a week. You can schedule your sessions in your preffered timeline in the following links:
