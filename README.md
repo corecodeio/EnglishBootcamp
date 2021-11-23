@@ -13,7 +13,7 @@
 <p>In this guide, you will find links and info on your personalized sessions, modules, assignment sace, feedback space, schedule, recordings. If there's anything missing from this guide, please let us know so we can add it. </p>
 
 ## Personalized Sessions
-In this bootcamp, you get access to one personzalized session a week. You can schedule your sessions in your preffered timeline in the following links:
+In this bootcamp, you get access to one personzalized session a week. You can schedule your sessions in your preffered timeline in the following links. If these calendars do not fit your availability, please let us know.
 - [Rafa's Calendar](https://calendly.com/rparra-8/60min)
 - [Valerie's Calendar](https://calendly.com/valerieandrewsb)
 
