@@ -25,8 +25,8 @@ In this bootcamp, you get access to one personzalized session a week. You can sc
 *  - Email Writing Excercise using the vocabulary words
 *  - Work Presentations Vocabulary Jamboard, Feedback Space & Test
 *  Week 2: 
-*  - Work Presentations - Present your slide
-*  - Personal Introductions Vocabulary Jamboard, Feedback Space & Test
+  - Work Presentations - Present your slide
+  - Personal Introductions Vocabulary Jamboard, Feedback Space & Test
    Week 3: 
      Personal Introductions - Present yourself to the team and give feedback to others
      Documentation Vocabulary Jamboard, Feedback Space & Test
