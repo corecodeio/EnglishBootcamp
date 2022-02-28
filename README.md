@@ -24,7 +24,6 @@ Articles, Adjectives, Verbes and Verb Tenses, Recordings
 * ### Month 3
 Verb Tenses / Writing - Speaking, Preposition, Prepositional Phrases. Modals, Prefixes, Suffixes, Vocabulary, Recordings
 * ### Month 4
-Work Vocabulary, Writing, Speaking, Types of Sentences, Grammar, Phrasal Verbs
 - Week 1:
   - Email Writing Excercise using the vocabulary words
   - Work Presentations Vocabulary Jamboard, Feedback Space & Test
@@ -38,7 +37,6 @@ Work Vocabulary, Writing, Speaking, Types of Sentences, Grammar, Phrasal Verbs
   - Documentation Practice - present your documentation and give feedback
   - Resume Vocabulary Jamboard, Feedback Space & Test
 * ### Month 5
-Work Vocabulary, Writing, Speaking, Types of Sentences, Grammar, Phrasal Verbs
 - Week 1:
   - Video Listening & Dialogue on Interviews
   - Mock Interviews 1, Feedback Space & Test
