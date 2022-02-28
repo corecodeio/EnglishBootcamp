@@ -17,7 +17,7 @@ In this bootcamp, you get access to one personzalized session a week. You can sc
 - [Chris' Calendar](https://calendly.com/chriscorecode/60min)
 
 ## Months (modules)
-* ### Month 1
+### Month 1
  Intro to English, including Parts of Speech, Nouns, Pronouns, Parts of a Sentence, General Punctuation, Pronunciation, Recordings
 * ### Month 2
 Articles, Adjectives, Verbes and Verb Tenses, Recordings
