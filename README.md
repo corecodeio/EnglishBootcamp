@@ -21,10 +21,10 @@ In this bootcamp, you get access to one personzalized session a week. You can sc
 * **Month 2:** Articles, Adjectives, Verbes and Verb Tenses, Recordings
 * **Month 3:** Verb Tenses / Writing - Speaking, Preposition, Prepositional Phrases. Modals, Prefixes, Suffixes, Vocabulary, Recordings
 * **Month 4:** Work Vocabulary, Writing, Speaking, Types of Sentences, Grammar, Phrasal Verbs
-- Week 1: 
+Week 1: 
 -   Email Writing Excercise using the vocabulary words
 -   Work Presentations Vocabulary Jamboard, Feedback Space & Test
-- Week 2: 
+Week 2: 
 -   Work Presentations - Present your slide
 -   Personal Introductions Vocabulary Jamboard, Feedback Space & Test
 - Week 3: 
