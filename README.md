@@ -50,17 +50,8 @@ Verb Tenses / Writing - Speaking, Preposition, Prepositional Phrases. Modals, Pr
   - Final Presentation Practice
   - Final Presentation
 
-## Assignments
-You can upload your assignments [here](https://drive.google.com/drive/folders/1WqhTPNE3rZiwCaWQ7h_FG5WeZaDJs5s9?usp=sharing).
-
 ## Feedback
 At Core Code, we love to keep co-creating the experience with you. Please [fill this form](https://aplica.typeform.com/to/yrWuI78T) to tell us more about your experience.
-
-## Schedule
-You can add the schedule to your Calendar through [this link](https://calendar.google.com/calendar/u/1?cid=Y19hM3U4cTUwZHZlcTdrYXUybGxzZ3Z2MTBqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-
-## Recordings
-You can find the recordings of the sessions in [this link](https://drive.google.com/drive/folders/1LlumKkwFpXGX9ITbCGI9tNlBWcrxP7rK?usp=sharing).
 
 ## Help
 Please reach out to your Slack Workspace to ask for any help.
