@@ -17,11 +17,15 @@ In this bootcamp, you get access to one personzalized session a week. You can sc
 - [Chris' Calendar](https://calendly.com/chriscorecode/60min)
 
 ## Months (modules)
-* ### Month 1: Intro to English, including Parts of Speech, Nouns, Pronouns, Parts of a Sentence, General Punctuation, Pronunciation, Recordings
-* ### Month 2:** Articles, Adjectives, Verbes and Verb Tenses, Recordings
-* ### Month 3:** Verb Tenses / Writing - Speaking, Preposition, Prepositional Phrases. Modals, Prefixes, Suffixes, Vocabulary, Recordings
-* ### Month 4:** Work Vocabulary, Writing, Speaking, Types of Sentences, Grammar, Phrasal Verbs
-**Week 1:**
+* ### Month 1
+ Intro to English, including Parts of Speech, Nouns, Pronouns, Parts of a Sentence, General Punctuation, Pronunciation, Recordings
+* ### Month 2
+Articles, Adjectives, Verbes and Verb Tenses, Recordings
+* ### Month 3
+Verb Tenses / Writing - Speaking, Preposition, Prepositional Phrases. Modals, Prefixes, Suffixes, Vocabulary, Recordings
+* ### Month 4
+Work Vocabulary, Writing, Speaking, Types of Sentences, Grammar, Phrasal Verbs
+**Week 1:
   - Email Writing Excercise using the vocabulary words
   - Work Presentations Vocabulary Jamboard, Feedback Space & Test
 **Week 2: 
@@ -33,7 +37,8 @@ In this bootcamp, you get access to one personzalized session a week. You can sc
 **Week 4: 
   - Documentation Practice - present your documentation and give feedback
   - Resume Vocabulary Jamboard, Feedback Space & Test
-* **Month 5:** Work Vocabulary, Writing, Speaking, Types of Sentences, Grammar, Phrasal Verbs
+* ### Month 5
+Work Vocabulary, Writing, Speaking, Types of Sentences, Grammar, Phrasal Verbs
 **Week 1:
   - Video Listening & Dialogue on Interviews
   - Mock Interviews 1, Feedback Space & Test
