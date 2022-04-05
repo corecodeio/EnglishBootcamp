@@ -39,13 +39,13 @@ Verb Tenses / Writing - Speaking, Preposition, Prepositional Phrases. Modals, Pr
 ### Month 5
 - Week 1:
   - Video Listening & Dialogue on Interviews
-  - Mock Interviews 1, Feedback Space & Test
+  - Feedback Space & Test
 - Week 2:
+  - Mock Interviews 1
   - Mock Interviews 2
-  - Present yourself to a team based on Guidelines, Feedback Space & Test
 - Week 3:
   - Kahoot on concepts & Terms
-  - Final Presentation Workshop
+  - Present yourself to a team based on Guidelines, Feedback Space & Test
 - Week 4:
   - Final Presentation Practice
   - Final Presentation
